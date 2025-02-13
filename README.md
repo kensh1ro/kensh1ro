@@ -18,6 +18,8 @@
 ![Mimikatz](https://img.shields.io/badge/Mimikatz-FFD700?style=for-the-badge&logo=windows&logoColor=white)
 ![BloodHound](https://img.shields.io/badge/BloodHound-800000?style=for-the-badge&logo=bloodhound&logoColor=white)
 ![Evilginx](https://img.shields.io/badge/Evilginx-4B0082?style=for-the-badge&logo=evilginx&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00A7E0?style=for-the-badge&logo=tenable&logoColor=white)
+![Acunetix](https://img.shields.io/badge/Acunetix-EE3124?style=for-the-badge&logo=acunetix&logoColor=white)
 
 ### **🎛️ Operating Systems**
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
